@@ -1,3 +1,5 @@
+from src import Workout, User
+
 def main():
     print("Добро пожаловать в Fitness Tracker!")
 
