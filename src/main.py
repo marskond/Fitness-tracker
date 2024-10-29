@@ -1,7 +1,7 @@
 import tkinter as tk
 from tkinter import messagebox
-from src.user import User
-from src.tracker import Workout
+from user import User
+from tracker import Workout
 
 class FitnessTrackerApp:
     def __init__(self, master):
